@@ -1,9 +1,103 @@
-<h1 align="center">Hi 👋, I'm Khushi rathore</h1>
-<h3 align="center">I am a passionate Computer Science student specializing in Cloud Computing, Networking, AI, and Cybersecurity. I enjoy solving real-world problems through technology, with expertise in Python, AWS, AI/ML, and Network Security.</h3>
+<!-- Header -->
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+```
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   $ whoami                                              │
+│   > Khushi Rathore                                      │
+│                                                         │
+│   $ cat interests.txt                                   │
+│   > Cloud · Networking · AI · Cybersecurity             │
+│                                                         │
+│   $ status                                              │
+│   > Building. Learning. Breaking things (ethically). ✓  │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://backbonejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" alt="backbonejs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nativescript.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" alt="nativescript" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+</div>
+
+---
+
+## `> about_me.sh`
+
+```python
+class Khushi:
+    def __init__(self):
+        self.role       = "Computer Science Student"
+        self.passion    = ["Cloud Computing", "Cybersecurity", "AI/ML", "Networking"]
+        self.languages  = ["Python", "C++", "SQL"]
+        self.currently  = "Exploring the intersection of AI and Security"
+        self.fun_fact   = "I think in packets and dream in cloud architectures ☁️"
+
+    def say_hi(self):
+        print("Thanks for stopping by! Let's build something secure and scalable.")
+
+me = Khushi()
+me.say_hi()
+```
+
+---
+
+## `> tech_stack --verbose`
+
+#### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+#### 🤖 AI & Machine Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+#### 🛠️ Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+
+#### 🗄️ Databases & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## `> focus_areas.log`
+
+```
+[INFO]  🔐 Cybersecurity        — Network defense, threat analysis, ethical hacking
+[INFO]  ☁️  Cloud Architecture   — AWS services, scalable infrastructure design
+[INFO]  🤖 AI / ML             — Model training, real-world problem solving
+[INFO]  🌐 Networking          — Protocols, topologies, network security
+[ACTIVE] 🔭 Currently exploring  — AI-powered security tooling
+```
+
+---
+
+## `> connect --open-ports`
+
+<div align="center">
+
+*Feel free to reach out — I'm always up for collaborating on interesting problems.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════╗
+║  "Security is not a product, but a process." ║
+║                          — Bruce Schneier    ║
+╚══════════════════════════════════════════════╝
+```
+
+*Made with curiosity, caffeine, and a healthy paranoia about network traffic.*
+
+</div>
